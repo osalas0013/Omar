@@ -24,4 +24,9 @@ p {
 	text-align: left;
 	color: rgb(121,149,117);
 }
-
+h3 {
+	font-size: 32px;
+	text-align: center;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
