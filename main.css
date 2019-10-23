@@ -18,9 +18,14 @@ h2 {
 	color: rgb(121,149,117);
 }
 p {
+	font-size: 20px;
+	font-family: Palatino, 'Palatino Linotype', serif;
+	color: rgb(121,149,117);
+	text-align: left;
+}
+h3 {
 	font-size: 25px;
 	font-family: Palatino, 'Palatino Linotype', serif;
 	color: rgb(121,149,117);
 	text-align: left;
-
 }
