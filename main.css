@@ -8,7 +8,7 @@ body {
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
+  font-family: Palatino, 'Palatino Linotype',
   color: rgb(121,149,117);
 }
 
@@ -16,7 +16,8 @@ h2 {
 	font-size: 56px;
 }
 p {
-	font-size: 2rem;
+	font-size: 25px;
+	font-family: Palatino, 'Palatino Linotype',
 	text-align: left;
 
 }
